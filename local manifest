@@ -3,9 +3,9 @@
 <remote name="gitown" fetch="https://github.com/BreathLGD/" revision="lineage-20.0" />
 
 <!-- Trees -->
-<project path="device/xiaomi/rosy" name="BreathLGD/android_device_xiaomi_rosy" remote="gitown" clone-depth="1" />
-<project path="vendor/xiaomi/rosy" name="BreathLGD/android_vendor_xiaomi_rosy" remote="gitown" clone-depth="1" />
-<project path="kernel/xiaomi/rosy" name="BreathLGD/android_kernel_xiaomi_rosy" remote="gitown" clone-depth="1" />
+<project path="device/xiaomi/rosy" name="android_device_xiaomi_rosy" remote="gitown" clone-depth="1" />
+<project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="gitown" clone-depth="1" />
+<project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_rosy" remote="gitown" clone-depth="1" />
 
 </manifest>
 
