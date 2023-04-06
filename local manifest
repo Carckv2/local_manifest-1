@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="gitown" fetch="https://github.com/BreathLGD/" revision="lineage-20.0" />
+<remote name="gitown" fetch="https://github.com/Carckv2/" revision="lineage-20.0" />
 
 <!-- Trees -->
 <project path="device/xiaomi/rosy" name="android_device_xiaomi_rosy" remote="gitown" clone-depth="1" />
